@@ -1,0 +1,38 @@
+html{
+    background-color: #b9f2e8;
+}
+h1{
+    color: rgb(200, 0, 255);
+    text-align: center;
+    font-size: 60px;
+}
+h2.Vito{
+    color: rgb(213, 167, 30);
+    text-align: left;
+    font-size: 60px;
+}
+h2.Bun{
+    color: rgb(22, 2, 27);
+    text-align: right;
+    font-size: 60px;
+}
+p.Vito{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-size: 25px;
+}
+p.Bun{
+    color: black;
+    text-align: right;
+    font-size: 25px;
+}
+p.Underpic{
+    color: rgb(242, 120, 197);
+    font-size: 15px;
+    vertical-align: top;
+}
+.image-container {
+    display: inline-block;
+    margin-right: 140px; /* Расстояние между картинками (можете настроить по своему усмотрению) */
+    vertical-align: top; /* Выравнивание картинок по верхнему краю */
+}
